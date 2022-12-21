@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <unistd.h>
-#include <curses.h>
+#include <stdlib.h>
 
 
 #endif /* _SNAKE_H_ */
